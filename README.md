@@ -5,9 +5,13 @@ It starts with a shop floor map composed by areas and then each area has lines a
 
 # Authors
 Bogdan Baranga (bbaranga at ptc.com) - Software design
+
 Madalin Costache (macostache at ptc.com) - Thingworx development
+
 Dumitru Zanfir (dzanfir at ptc.com) - SVG Map design
+
 Dan Petroianu (dpetroianu at ptc.com) - SVG map design
+
 Chardee Ginus (cginus at ptc.com) - SVG map design 
 
 
